@@ -966,6 +966,9 @@ body.light-theme {
 	.about__img {
 		width: 450px;
 	}
+	.about__box {
+		text-align: center;
+	}
 	.about__info {
 		justify-content: initial;
 	}
