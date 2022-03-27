@@ -2,7 +2,7 @@
 ***
 <img src="https://sun9-81.userapi.com/impf/j4qt8nMMl1zQNcJU5BnakEW7_PdkxfXg3-48Wg/824HFqREjnw.jpg?size=1500x2000&quality=96&sign=4410157203edeb24ba55d3a514267c0f&type=album" width="20%" />
 
-1. __Name:__  Dzianis Abushkevich
+1. __Name:__  Dzianiss Abushkevich
 
 2. __Contacts:__ 
 
