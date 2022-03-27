@@ -1,2 +1,2 @@
 
-https://de333get.github.io/rsschool-cv/
+https://De333get.github.io/rsschool-cv/
