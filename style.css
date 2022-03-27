@@ -972,6 +972,9 @@ body.light-theme {
 	.about__data {
 		text-align: initial;
 	}
+	.about__box {
+		text-align: center;
+	}
 	.nav__menu {
 		width: 680px;
 	}
